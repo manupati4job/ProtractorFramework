@@ -48,7 +48,7 @@ describe('demo calculator tests', function(){
 
         homepage.verifyResult('20');
 
-        browser.sleep(2000)
+        browser.sleep(5000)
 
     });
 
